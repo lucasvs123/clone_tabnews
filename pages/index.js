@@ -7,7 +7,7 @@ function teste() {
 }
 
 function errada() {
-    console.log('errado')
+  console.log("errado");
 }
 
 export default Home;
